@@ -71,7 +71,7 @@ We are enhancing the webpage we already created for Dana by adding additional fi
 Based on the search criteria data displayed on the table changes dynamically.
 
 #### Drawback of this webpage
-The main drawback on this page is searching, we can only search on a whole match of the text entered, and wehn text is in lowercase, we cannot search on a partial match or mixed case text entry.
+The main drawback on this page is searching, we can only search on a whole match of the text entered and is in lowercase. We cannot search on a partial match or mixed case text entry.
 
 #### Additional recommendations for further development
 

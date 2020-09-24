@@ -11,15 +11,21 @@ We are creating a webpage for Dana that has a dynamic table, which is filtered u
 
 ## Module Project Analysis
 
-We can use date filter as follows to filter table data.
+  We can use date filter as follows to filter table data.
+
+  - webpage:
+  
+    !["module webpage"](./static/images/module_webpage.png "module webpage")
 
   - filter:
-  
-  
+    Enter date into the date filter textbox as shown 
+    
+    !["module webpage filter"](./static/images/module_webpage_filter.png "module webpage filter")
   
   - filtered table:
-  
-  
+    Click on the button to filter the table data
+    
+    !["module webpage filtered data"](./static/images/module_webpage_filtered_data.png "module webpage filtered data")
   
 
 ## Challenge Overview
@@ -28,10 +34,36 @@ We are enhancing the webpage we already created for Dana by adding additional fi
 
 ## Challenge Analysis
 
-
+  We can use the multiple filters to filter data as shown below
+  
+  - challenge webpage:
+  
+  !["module webpage"](./static/images/module_webpage.png "module webpage")
+  
+  - date filter:
+  
+  !["module webpage"](./static/images/module_webpage.png "module webpage")
+  
+  - city and state filter:
+  
+  !["module webpage"](./static/images/module_webpage.png "module webpage")
+  
+  - state and country filter:
+  
+  !["module webpage"](./static/images/module_webpage.png "module webpage")
+  
+  - shape filter:
+  
+  !["module webpage"](./static/images/module_webpage.png "module webpage")
+  
+  - Reset filters:
+  
+  !["module webpage"](./static/images/module_webpage.png "module webpage")
+  
 
 ### Summary
 
+Based on the search criteria data displayed on the table changes dynamically.
 
 #### Drawback of this webpage
 The main drawback on this page is searching, we can only search on a whole match of the text entered, and wehn text is in lowercase, we cannot search on a partial match or mixed case text entry.

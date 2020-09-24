@@ -63,16 +63,16 @@ function filterTable() {
 		if (filter == "datetime") {
 			filteredData = filteredData.filter(row => row.datetime === value);
 		}
-		if (filter == "city") {
+		else if (filter == "city") {
 			filteredData = filteredData.filter(row => row.city === value);
 		}
-		if (filter == "state") {
+		else if (filter == "state") {
 			filteredData = filteredData.filter(row => row.state === value);
 		}
-		if (filter == "country") {
+		else if (filter == "country") {
 			filteredData = filteredData.filter(row => row.country === value);
 		}
-		if (filter == "shape") {
+		else if (filter == "shape") {
 			filteredData = filteredData.filter(row => row.shape === value);
 		}
 	}

@@ -38,27 +38,32 @@ We are enhancing the webpage we already created for Dana by adding additional fi
   
   - challenge webpage:
   
-  !["module webpage"](./static/images/module_webpage.png "module webpage")
+  !["module webpage"](./static/images/challenge_webpage.png "module webpage")
   
   - date filter:
+    Enter date into the date filter textbox as shown and the table data is filtered right away
   
-  !["module webpage"](./static/images/module_webpage.png "module webpage")
+  !["module webpage"](./static/images/challenge_webpage_filter_date.png "module webpage")
   
   - city and state filter:
+    Enter city and state as shown and data is filtered further
   
-  !["module webpage"](./static/images/module_webpage.png "module webpage")
+  !["module webpage"](./static/images/challenge_webpage_filter_city.png "module webpage")
   
   - state and country filter:
+    Enter state and country to filter data
   
-  !["module webpage"](./static/images/module_webpage.png "module webpage")
+  !["module webpage"](./static/images/challenge_webpage_filter_state.png "module webpage")
   
   - shape filter:
+    Enter shape to filter data even further
   
-  !["module webpage"](./static/images/module_webpage.png "module webpage")
+  !["module webpage"](./static/images/challenge_webpage_filter_shape.png "module webpage")
   
   - Reset filters:
+    Reset filters by clicking on 'UFO Sightings' nav-bar up on top left.
   
-  !["module webpage"](./static/images/module_webpage.png "module webpage")
+  !["module webpage"](./static/images/challenge_webpage_clear.png "module webpage")
   
 
 ### Summary

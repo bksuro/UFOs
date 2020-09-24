@@ -76,7 +76,7 @@ The main drawback on this page is searching, we can only search on a whole match
 #### Additional recommendations for further development
 
   Drawbacks are the recommendations for future development
-  - Add Partial text search using string contains function as opposed to '===' or '==' operators.
+  - Add Partial text search using string includes() function as opposed to '===' or '==' operators.
   - Add mixed case search by converting the text to all lowercase or uppercase.
   
   
